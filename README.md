@@ -4,7 +4,7 @@ A REMI-based Transformer-XL for Chinese Piano Generation
 ## Install Dependencies
 
 - python 3.6
-- pip install -r requirements.txt
+- `pip install -r requirements.txt`
 
 ## Download Pre-trained Checkpoints
 
