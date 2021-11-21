@@ -6,7 +6,7 @@ A REMI-based Transformer-XL for Chinese Piano Generation
 - python 3.6
 - `pip install -r requirements.txt`
 
-## Download Pre-trained Checkpoints
+## Download the Pre-trained Checkpoint
 
 - `Chinese-piano-checkpoint` (474 MB) 
 
