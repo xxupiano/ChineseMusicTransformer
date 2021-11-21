@@ -14,7 +14,7 @@ A REMI-based Transformer-XL for Chinese Piano Generation
 
   key: ci2e
 
-## Red Melody
+## Download the dataset *Red Melody*
 
 - training set: 193 pieces
 
@@ -27,3 +27,9 @@ A REMI-based Transformer-XL for Chinese Piano Generation
 - link: https://pan.baidu.com/s/16QAMAnGPt-lN70WDkhagtA
 
   key: d0om
+
+## Finetune
+`python finetune.py`
+
+## Predict
+`python main.py`
