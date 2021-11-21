@@ -4,9 +4,7 @@ A REMI-based Transformer-XL for Chinese Piano Generation
 ## Install Dependencies
 
 - python 3.6
-- tensorflow-gpu 1.14.0 (`pip install tensorflow-gpu==1.14.0`)
-- miditoolkit (`pip install miditoolkit`)
-- music21 (`pip install music21`)
+- pip install -r requirements.txt
 
 ## Download Pre-trained Checkpoints
 
