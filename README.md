@@ -8,11 +8,8 @@ A REMI-based Transformer-XL for Chinese Piano Generation
 
 ## Download the Pre-trained Checkpoint
 
-- `Chinese-piano-checkpoint` (474 MB) 
+- [Chinese-piano-checkpoint (474 MB)](https://drive.google.com/drive/folders/1rVdFPlisPKwNDkIjVJIyQ7i0i-LyKz7U)
 
-  link: https://pan.baidu.com/s/1UvjMXkDTXf8dDPR6BClybQ
-
-  key: ci2e
 
 ## Download the dataset *Red Melody*
 
