@@ -21,7 +21,7 @@ A REMI-based Transformer-XL for Chinese Piano Generation
 
 - The file, Red_Melody.csv, contains all information of the dataset.
 
-- link: https://drive.google.com/file/d/1gAmQD_vrJJFQzfWMPTu0ZwMiThV7ERxW/view?usp=sharing
+- [Download](https://drive.google.com/file/d/1gAmQD_vrJJFQzfWMPTu0ZwMiThV7ERxW/view?usp=sharing)
 
 ## Finetune
 `python finetune.py`
